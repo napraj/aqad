@@ -1,13 +1,13 @@
-@@font-face {
+@font-face {
   font-family: 'assistant';
-  src: url(/fonts/assistant/assistant-bold);
+  src: url(/fonts/assistant/assistant-bold.ttf);
 }
 body {
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
   background-size: cover;
-  height: 100%;
+  height: auto;
 }
 q {
   text-align: center;
