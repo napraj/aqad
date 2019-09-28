@@ -1,5 +1,14 @@
 q {
   text-align: center;
-  color: red;
+  color: white;
+  font-family: sans-serif;
+  font-style: normal;
+  font-size: 60px;
+}
+cite{
+  text-align: center;
+  color: white;
+  font-family: sans-serif;
+  font-style: normal;
   font-size: 30px;
-} 
+}
