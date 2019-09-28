@@ -1,3 +1,7 @@
+@@font-face {
+  font-family: 'assistant';
+  src: url(/fonts/assistant/assistant-bold);
+}
 body {
   background-repeat: no-repeat;
   background-position: center center;
@@ -8,7 +12,7 @@ body {
 q {
   text-align: center;
   color: white;
-  font-family: arial, sans-serif;
+  font-family: assistant, arial, sans-serif;
   font-style: normal;
   font-size: 60px;
 }
