@@ -1,4 +1,7 @@
-<link href="https://fonts.googleapis.com/css?family=Assistant&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Assistant:200&display=swap" rel="stylesheet">
+.css-selector {
+font-family: 'Assistant', serif;
+}
 
 body {
   background-repeat: no-repeat;
@@ -10,7 +13,7 @@ body {
 q {
   text-align: center;
   color: white;
-  font-family: 'assistant-bold', arial, sans-serif;
+  font-family: 'Assistant', arial, sans-serif;
   font-style: normal;
   font-size: 60px;
 }
