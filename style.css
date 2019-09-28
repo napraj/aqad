@@ -1,7 +1,5 @@
-@font-face {
-  font-family: 'assistant';
-  src: url(/fonts/assistant/assistant-bold.ttf);
-}
+<link href="https://fonts.googleapis.com/css?family=Assistant&display=swap" rel="stylesheet">
+
 body {
   background-repeat: no-repeat;
   background-position: center center;
