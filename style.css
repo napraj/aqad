@@ -10,6 +10,20 @@ body {
   background-size: cover;
   height: auto;
 }
+h1 {
+  text-align: center;
+  color: white;
+  font-family: 'Assistant', arial, sans-serif;
+  font-style: normal;
+  font-size: 60px;
+}
+p {
+  text-align: center;
+  color: white;
+  font-family: 'Assistant', arial, sans-serif;
+  font-style: normal;
+  font-size: 12px;
+}
 q {
   text-align: center;
   color: white;
@@ -20,14 +34,14 @@ q {
 cite {
   text-align: center;
   color: white;
-  font-family: arial, sans-serif;
+  font-family: 'Assistant', arial, sans-serif;
   font-style: normal;
   font-size: 30px;
 }
 * {
   text-align: center;
   color: white;
-  font-family: arial, sans-serif;
+  font-family: 'Assistant', arial, sans-serif;
   font-style: normal;
   font-size: 10px;
 }
