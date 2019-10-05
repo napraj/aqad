@@ -4,6 +4,7 @@ font-family: 'Assistant', serif;
 }
 
 body {
+  margin: 0;
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
